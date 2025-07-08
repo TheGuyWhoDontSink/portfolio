@@ -1,0 +1,210 @@
+.flex{ display: flex; justify-content: center;background: #a8a6a3;
+background: radial-gradient(circle,rgba(168, 166, 163, 0.57) 0%, rgba(171, 167, 170, 1) 0%); ;}
+h1{font-size: 50px; font-style: oblique; border-bottom: 5px solid black;} 
+
+.flexo{display: flex; flex-direction: column-reverse; align-items: center; ;}
+.lutten {
+ background-image: url(".//GettyImages-957016116-web.jpg");
+ background-color: #cccccc;
+   background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  
+}
+.bt{border: 5px solid black; margin: 5px; padding: 5px; background-color: red; color: aliceblue; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center; border-radius: 50%; align-content: center;}
+.cikk{color: aliceblue; text-align: center;}
+.hatter{background-color: darkslategray; width: fit-content; align-content: center;}
+li{color: aliceblue;}
+ #content {
+      display: none; /* Initially hidden */
+      padding: 10px;
+      background-color: #f0f0f0;
+      border: 1px solid #ccc;
+      width: fit-content;
+      background-color: darkslategray;
+      max-width: 1200px;
+      align-items: center;
+    }
+    #toggleButton{
+        border: 5px solid black;
+        background-color: darkslategray;
+        font-weight: 00;
+        color: aliceblue;
+       
+      
+    }
+    .btbox{
+        border: 2px solid white;
+        width: fit-content;
+       text-align: center;
+       
+    }
+  .flex1{ display: flex; justify-content: center;background: #a8a6a3;
+background: radial-gradient(circle,rgba(168, 166, 163, 0.57) 0%, rgba(171, 167, 170, 1) 28%, rgba(201, 85, 85, 1) 75%, rgba(201, 187, 85, 0.57) 54%, rgba(201, 85, 85, 1) 97%, rgba(100, 201, 85, 0.48) 6%);}
+.poker{
+  background-image: url("./poker-texas-karty-zasady-e1646493387250.jpg");
+ background-color: #cccccc;
+   background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.pokerg{width: fit-content;height: fit-content; background-color: black;}
+
+    .flex2{
+      display: flex; justify-content: center;
+      background: #C4BEBC;
+background: radial-gradient(circle,rgba(196, 190, 188, 0.61) 3%, rgba(196, 190, 188, 1) 6%, rgba(168, 166, 163, 0.57) 37%, rgba(171, 167, 170, 0.6) 50%, rgba(23, 16, 16, 0.72) 77%, rgba(23, 16, 16, 0.5) 80%);
+
+    
+}
+.chessboard{
+   background-image: url("./images/R.jpg");
+ background-color: #cccccc;
+   background-attachment: fixed;
+    background-position: center;
+ background-size: cover;
+}
+.flex3{
+      display: flex; justify-content: center;
+      background-size: 100% 100%;
+background-position: 0px 0px,0px 0px,0px 0px,0px 0px,0px 0px;
+background-image: radial-gradient(49% 81% at 45% 47%, #FFE20345 16%, #FFE20345 47%, #FFE20345 71%, #FFE20345 79%, #FFE20345 84%, #073AFF00 100%),radial-gradient(113% 91% at 17% -2%, #31241EFF 1%, #31241EFF 13%, #31241EFF 24%, #31241EFF 39%, #31241EFF 41%, #FF000000 99%),conic-gradient(from 239deg at 83% 7%, #D8C4ACFF 1%, #FF000000 99%),radial-gradient(142% 91% at -6% 74%, #FF0049FF 35%, #73555FFF 46%, #FF0049FF 48%, #FF000000 99%),radial-gradient(142% 91% at 111% 84%, #2E1A02FF 32%, #FF0000FF 33%);
+}
+.meme{
+   background-image: url("./images/1705067977-dallc2b7e-2024-01-12-16-57-40-a-dynamic-scene-depicting-a-group-of-5-6-meme-coin-mascots-each-ready-to-fight-representing-various-cryptocurrencies-the-group-includes-the-dogecoi-min.png");
+ background-color: #cccccc;
+   background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.flex4{
+      display: flex; justify-content: center;
+      background-size: 100% 100%;
+background-position: 0px 0px,0px 0px,0px 0px,0px 0px,0px 0px,0px 0px;
+background-image: radial-gradient(49% 81% at 45% 47%, #FDC100FF 2%, #FFE20345 19%, #03F7FF45 29%, #03F3FF45 84%, #073AFF00 100%, #0356FF45 100%),conic-gradient(from 150deg at 83% 7%, #ACD2D8FF 1%, #FF000000 99%),radial-gradient(142% 91% at -6% 74%, #FF0049FF 0%, #73555FFF 0%, #00B1FFFF 33%, #FF000000 99%),radial-gradient(142% 91% at 111% 84%, #00C9FFFF 85%, #FF0000FF 95%),radial-gradient(75% 75% at 50% 50%, #00FFFFFF 32%, #00FFFFFF 53%, #073AFFFF 71%),repeating-conic-gradient(from 359deg at 50% 50%, #00FFFFCF 20%, #00FFFFFF 52%, #747A8F9C 81%);
+
+}
+.tenerife{
+    background-image: url("./images/Spain_Tenerife_3840x2160.jpg");
+ background-color: #cccccc;
+   background-attachment: fixed;
+    background-position: center;
+background-size: cover;
+}
+.flex5{
+   display: flex; justify-content: center;
+   background-size: 100% 100%;
+background-size: 100% 100%;
+background-position: 0px 0px,0px 0px,0px 0px,0px 0px,0px 0px;
+background-image: repeating-linear-gradient(315deg, #00FFFF2E 92%, #073AFF00 100%),repeating-radial-gradient(75% 75% at 238% 218%, #00FFFF12 30%, #073AFF14 39%),radial-gradient(99% 99% at 109% 2%, #2000FFFF 0%, #4D4F6400 100%),radial-gradient(99% 99% at 21% 78%, #7B00FFFF 0%, #073AFF00 100%),radial-gradient(160% 154% at 711px -303px, #2000FFFF 0%, #073AFFFF 100%);
+}
+.games{
+   background-image: url("./images/ey-friends-playing-console-video-games.jpg");
+ background-color: #cccccc;
+   background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+span{color: black; font-weight: bolder;}
+.flex6{
+  display: flex; justify-content: center;
+  background-size: 100% 100%;
+background-size: 100% 100%;
+background-position: 0px 0px,0px 0px,0px 0px,0px 0px,0px 0px;
+background-image: radial-gradient(49% 81% at 45% 47%, #45C35C45 96%, #073AFF00 100%),conic-gradient(from 109deg at 17% -2%, #3F904DFF 15%, #FF000000 99%),radial-gradient(142% 91% at 83% 7%, #7FE26CFF 30%, #FF000000 99%),radial-gradient(142% 91% at -6% 74%, #00FFADFF 73%, #FF000000 99%),radial-gradient(142% 91% at 111% 84%, #81FF00FF 100%, #FF0000FF 100%);
+}
+.cooking{
+    background-image: url("./images/cooking.jpg");
+ background-color: #cccccc;
+   background-attachment: fixed;
+    background-position: center;
+background-size: cover;
+}
+.flex7{
+ display: flex; justify-content: center;
+ background-size: 100% 100%;
+background-position: 0px 0px,0px 0px,0px 0px,0px 0px,0px 0px;
+background-image: radial-gradient(49% 81% at 45% 47%, #F1F1F145 28%, #073AFF00 100%),radial-gradient(113% 91% at 17% -2%, #080707FF 88%, #FF000000 99%),radial-gradient(142% 91% at 83% 7%, #242417FA 74%, #FF000000 99%),conic-gradient(from 281deg at -6% 74%, #CCC5C5FF 15%, #FF000000 99%),radial-gradient(142% 91% at 111% 84%, #9E9E9AFF 46%, #797976FF 48%);
+}
+.spacek{
+  color: gray;
+}
+.spacej{
+    background-image: url("./images/spacek.jpg");
+ background-color: #cccccc;
+   background-attachment: fixed;
+    background-position: center;
+background-size: cover;
+}
+.computer{
+    background-image: url("./images/applepc.jpg");
+ background-color: #cccccc;
+   background-attachment: fixed;
+    background-position: center;
+   background-size: cover;
+}
+.flex8{
+ display: flex; justify-content: center;
+background-size: 100% 100%;
+background-position: 0px 0px,0px 0px,0px 0px,0px 0px,0px 0px;
+background-image: repeating-linear-gradient(164deg, #4D2C0E2E 93%, #4F280B00 100%),repeating-radial-gradient(75% 75% at 238% 218%, #4B351B12 25%, #5A360814 39%),radial-gradient(99% 99% at 109% 2%, #FFB300FF 70%, #51260B00 100%),radial-gradient(99% 99% at 21% 78%, #3F2C06FF 10%, #3B220500 59%),radial-gradient(160% 154% at 711px -303px, #503106FF 13%, #4D3109FF 33%);
+}
+.flex9{
+ display: flex; justify-content: center;
+  background-size: 100% 100%;
+background-position: 0px 0px;
+background-image: linear-gradient(106deg, #BFBAC291 46%, #5B5A5AD9 89%);
+}
+.ufc{
+    background-image: url("./images/R\ \(1\).jpg");
+ background-color: #cccccc;
+   background-attachment: fixed;
+    background-position: center;
+   background-size: cover;
+}
+.homepage{
+   background-image: url("./images/light-gray-background-x4otusdbnw0r5lmk.jpg");
+ background-color: #cccccc;
+   background-attachment: fixed;
+    background-position: center;
+   background-size: cover;
+}
+.flex10{
+  display: flex; justify-content: space-evenly;
+  background-size: 100% 100%;
+background-position: 0px 0px;
+background-image: linear-gradient(106deg, #BFBAC291 46%, #5B5A5AD9 89%);
+
+}
+.header{
+  text-align: center;
+  border-bottom: none;
+  font-size: 90px;
+}
+.cikk1{
+  color: black;
+  text-align: center;
+
+}
+.cikk2{
+  border: 5px solid black;
+background-color: lightslategray;
+  width: 300px;
+ color: white;
+}
+.cikk3{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+.cikk4{
+  color: white;
+  border: none;
+  text-decoration: none;
+}
+.flex11{
+    display: flex; justify-content: space-around;
+  background-size: 100% 100%;
+background-position: 0px 0px;
+background-image: linear-gradient(106deg, #BFBAC291 46%, #5B5A5AD9 89%);
+}
